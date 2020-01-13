@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Percuss",
+    "slug": "Percuss",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/drumicon.png",
+    "android": {
+        "package": "com.musicology.percuss",
+        "versionCode": 2
+    },
+    "platforms": [
+      "android"
+    ],
+    "splash": {
+      "image": "./assets/images/drumkitsplash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

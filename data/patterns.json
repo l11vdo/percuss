@@ -1,0 +1,36 @@
+[
+  {
+    "name": "default",
+    "owner": "sys",
+    "title": "default pattern",
+    "set":"standard",
+    "streams": [
+      ["kick1","kick2","kick1","kick2"],
+      ["none","hat1","none","hat2","none","hat1","none","hat2"],
+      ["none","none","none","kick2","none","none","none","kick2","none","none","none","kick2","none","none","none","kick2"]
+    ]
+  },
+  {
+    "name": "racket",
+    "owner": "sys",
+    "title": "test pattern",
+    "set":"standard",
+    "streams": [
+      ["snare1","none","snare1","none"],
+      ["none","none","none","none","none","none","none","none"],
+      ["none","none","none","none","snare4","snare4","snare4","snare4","none","none","none","none","snare4","snare4","snare4","snare4"]
+    ]
+  },
+  {
+    "name": "test",
+    "owner": "sys",
+    "title": "test pattern",
+    "set":"standard",
+    "streams": [
+      ["hat3","none","hat3","none"],
+      ["none","none","click3","click1","none","none","none","none"],
+      ["none","none","none","none","none","none","none","none","none","none","none","none","snare1","none","snare1","none"]
+    ]
+  }
+]
+  
