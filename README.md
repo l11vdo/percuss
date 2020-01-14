@@ -79,7 +79,7 @@ Extensions and features to come:
 
 The app is really just a proof of concept as of now (hence there are no ads and no publicity etc)
 
-Nonetheless it's been an interesting challenge and I feel ready now to take on further projects now.
+Nonetheless it's been an interesting challenge and I feel ready now to take on further projects.
 
 l11vdo@gmail.com
 +44 7879 648143
