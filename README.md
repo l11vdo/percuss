@@ -25,21 +25,30 @@ The app is at its most effective by the way when the phone is connected to a spe
 
 #### PLAY TAB
 ![PLAY](/assets/images/playtab.png)
+
 Mode:
+
     Loop - play the pattern over and over again
     One Time - play the pattern once
+
 Pattern:
+
     Pick the pattern you wish to play
+
 Play / Pause button
 
 #### COMPOSE TAB
 ![COMPOSE](/assets/images/composetab.png)
+
 Used in combination with the Pattern Designer - select the position where you want a beat to play in the Pattern designer then select the sound
+
 'Play Beat' button plays the selected beat once
 
 #### DEFINE TAB
 ![DEFINE](/assets/images/definetab.png)
+
 Here you can change the drum kit, and number of beats for the currently loaded pattern (disabled for the samples we supply)
+
 You can also create a new drum pattern here
 
 ### LESSONS LEARNT
