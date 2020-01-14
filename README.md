@@ -57,7 +57,7 @@ You can also create a new drum pattern here
 
 ### LESSONS LEARNT
 
-I elected to use the Expo platform to write and deploy the app. As far as I can tell, this does not look like a terrible decision and I should hopefully reap the rewards on deploying the IOS version as they claim it is platform independent (we shall see)!
+I elected to use the Expo platform to write and deploy the app. As far as I can tell, this does not look like a terrible decision and I should hopefully reap the rewards on deploying the IOS version as they claim seemless platform independence (we shall see!).
 
 One drawback however was the poor performance of the Expo app on my phone - I didn't realise the extent this could impact a timings sensitve app like mine and I ended up spendng a lot more time on performance optimisation than was necessary.
 
