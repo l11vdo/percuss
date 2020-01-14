@@ -59,7 +59,7 @@ You can also create a new drum pattern here
 
 I elected to use the Expo platform to write and deploy the app. As far as I can tell, this does not look like a terrible decision and I should hopefully reap the rewards on deploying the IOS version as they claim it is platform independent (we shall see)!
 
-One drawback however was the performance of the Expo app on my phone - I didn't realise that this would impact a timings sensitve app like this and I ended up spendng a lot more time on performance optimisation than was necessary.
+One drawback however was the poor performance of the Expo app on my phone - I didn't realise the extent this could impact a timings sensitve app like mine and I ended up spendng a lot more time on performance optimisation than was necessary.
 
 There is no 'native' code - the whole app is written in React Native. The biggest issue I found with this was the 'single threadedness' of React Native - and in test mode I was often finding the whole UI just locking up.
 
