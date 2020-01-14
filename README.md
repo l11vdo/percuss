@@ -10,7 +10,7 @@ My main reason for writing this app has been to consolidate my React Native skil
 
 As a musician myself, I had played around with metronomes and other music focused apps, but hadn't found anything like this.
 
-My requirement was to be able easily generate a simple percussion backing track with the tempo amd vibe I wanted.
+My requirement was to be able easily generate a simple percussion backing track with the tempo and vibe I wanted.
 
 ### WHAT DOES IT DO?
 
