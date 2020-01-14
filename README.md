@@ -8,6 +8,10 @@
 
 My main reason for writing this app has been to consolidate my React Native skills by implementing and publishing a fairly challenging mobile app.
 
+As a musician myself, I had played around with metronomes and other music focused apps, but hadn't found anything like this.
+
+My requirement was to be able easily generate a simple percussion backing track with the tempo amd vibe I wanted.
+
 ### WHAT DOES IT DO?
 
 Percuss is fundamentally a straightforward metronome app (for non-musicians it basically marks time).
