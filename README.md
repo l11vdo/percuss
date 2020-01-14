@@ -61,7 +61,7 @@ I elected to use the Expo platform to write and deploy the app. As far as I can 
 
 One drawback however was the performance of the Expo app on my phone - I didn't realise that this would impact a timings sensitve app like this and I ended up spendng a lot more time on performance optimisation than was necessary.
 
-There is no 'native' code - the whole app is written in React Native. The biggest issue I found with this was the 'single threadedness' of React Native - and in test mode I was often finding the whole UI just locking up. In the end I've had to accept thatcontrols only respond while playing at the end of the pattern.
+There is no 'native' code - the whole app is written in React Native. The biggest issue I found with this was the 'single threadedness' of React Native - and in test mode I was often finding the whole UI just locking up. In the end I've had to accept the user can only halt playing at the end of the pattern.
 
 ### WHAT'S NEXT?
 
